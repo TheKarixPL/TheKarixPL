@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm TheKarixPL. I'm big fan of C# and .NET. I like to develop Backend Web apps, Unity Games, Classic Windows/Linux desktop apps, Android apps and more.
+I'm TheKarixPL. My real name is Daniel Prusak. I'm big fan of C# and .NET. I like to develop Backend Web apps, Unity Games, Classic Windows/Linux desktop apps, Android apps and more.
 
 <!--
 **TheKarixPL/TheKarixPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
