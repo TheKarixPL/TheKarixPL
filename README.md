@@ -1,6 +1,8 @@
-### Hi there 👋
-
-I'm TheKarixPL. My real name is Daniel Prusak. I'm big fan of C# and .NET. I like to develop Backend Web apps, Unity Games, Classic Windows/Linux desktop apps, Android apps and more.
+## Hi there, I'm Karix and my real name is Daniel
+### I'm currently Junior Linux Administrator and I love Unix-like operating systems and C# language.
+![Linux](https://img.shields.io/badge/-Linux-lightyellow?logo=linux&style=for-the-badge&logoColor=black)&nbsp;
+![FreeBSD](https://img.shields.io/badge/-FreeBSD-green?logo=freebsd&style=for-the-badge&logoColor=red)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-blue?logo=csharp&style=for-the-badge&logoColor=purple)&nbsp;
 
 <!--
 **TheKarixPL/TheKarixPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
